@@ -44,7 +44,7 @@ function MainView() {
     },
   ];
   return (
-    <div className="sm:px-0 lg:px-28">
+    <div className="sm:px-0 lg:px-20">
       <Navbar />
       <HeroSection
         title="Grow your subscription business"
